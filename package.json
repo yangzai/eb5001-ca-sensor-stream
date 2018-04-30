@@ -1,0 +1,7 @@
+{
+  "name": "eb5001-ca-sensor-stream",
+  "version": "0.0.1",
+  "dependencies": {
+    "pubnub": "^4.20.2"
+  }
+}
